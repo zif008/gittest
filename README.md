@@ -1,5 +1,1 @@
-# HEADER FOR MY GITHUB PROJECT
-
-## SUB HEADER
-
-Today is a nice day
+[![Build Status](https://travis-ci.org/zif008/gittest.svg?branch=master)](https://travis-ci.org/zif008/gittest)
